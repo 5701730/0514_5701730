@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>
 
 #define MAX_LIST_SIZE 100
-
+//배열리스트 프로그램
 typedef int element;
 typedef struct {
     element array[MAX_LIST_SIZE];
